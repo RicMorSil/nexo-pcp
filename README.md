@@ -54,11 +54,7 @@ Esta versão não exige cadastro. Ordens e máquinas ficam armazenadas somente n
 
 Acesse o sistema e teste os diferentes modelos de sequenciamento:
 
-<p>
-  <a href="https://nexo-pcp.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/TESTAR_O_NEXO_PCP-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Testar o Nexo PCP">
-  </a>
-</p>
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nexo-pcp.vercel.app/)
 
 > Os dados utilizados na demonstração são fictícios e ficam armazenados localmente no navegador.
 
