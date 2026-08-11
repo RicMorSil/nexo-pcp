@@ -24,13 +24,16 @@ Aplicativo web para transformar uma carteira de ordens em um plano de produção
 | EDD | menor prazo de entrega primeiro | proteção das datas prometidas |
 | Razão Crítica | menor relação entre prazo restante e duração | priorização dinâmica de urgências |
 
-## Tecnologias
+## 🧰 Tecnologias utilizadas
 
-- React;
-- Next.js;
-- TypeScript;
-- CSS responsivo;
-- armazenamento local do navegador.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Local_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Local Storage">
+</p>
 
 ## Execução local
 
@@ -46,6 +49,18 @@ Depois, abra o endereço informado pelo terminal.
 ## Privacidade
 
 Esta versão não exige cadastro. Ordens e máquinas ficam armazenadas somente no navegador do usuário. Os dados iniciais são fictícios e servem apenas para demonstração.
+
+## 🚀 Demonstração online
+
+Acesse o sistema e teste os diferentes modelos de sequenciamento:
+
+<p>
+  <a href="https://nexo-pcp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/TESTAR_O_NEXO_PCP-00A86B?style=for-the-badge&logo=vercel&logoColor=white" alt="Testar o Nexo PCP">
+  </a>
+</p>
+
+> Os dados utilizados na demonstração são fictícios e ficam armazenados localmente no navegador.
 
 ## Limites da versão
 
